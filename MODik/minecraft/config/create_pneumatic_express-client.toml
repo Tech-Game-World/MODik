@@ -1,3 +1,0 @@
-[debug]
-	#If true, spawns debug airflow particles inside all pipes to visualize the network flow direction.
-	debugPipeAirflowParticles = false

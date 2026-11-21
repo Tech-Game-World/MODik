@@ -1,0 +1,25 @@
+filename = 'zakoopt-2.0.4-1.21.1-neoforge.jar'
+name = 'ZakoOpt'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ZakoOpt 2.0.4 for 1.21.1-neoforge'
+
+[download]
+hash = '3df2b18149e45bf710d7c25258fd11ca2b43e27b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9407184
+project-id = 1731365
+
+[[x-prismlauncher-dependencies]]
+addonId = '686911'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'OPTIONAL'
